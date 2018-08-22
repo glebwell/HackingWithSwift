@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bc69548-c2e4-47ea-ae39-12810b41a8e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project10.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project10.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project10.xcodeproj/project.xcworkspace/xcuserdata/gleb.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project10.xcodeproj/xcuserdata/gleb.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project10/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project10/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project10/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project10/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project10/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project10/PersonCell.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project10/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project8/Project8.xcodeproj/project.xcworkspace/xcuserdata/gleb.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../Project8/Project8.xcodeproj/project.xcworkspace/xcuserdata/gleb.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-    </list>
+    <list default="true" id="7bc69548-c2e4-47ea-ae39-12810b41a8e1" name="Default Changelist" comment="" />
     <ignored path="$USER_HOME$/Library/Developer/Xcode/DerivedData/Project10-bccypzaantuzlxcowlsjzdaoxwmq/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +14,7 @@
     <session id="1800405250">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -75,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project10/ViewController.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+            <state relative-caret-position="466">
+              <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -180,12 +167,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534527260224</updated>
-      <workItem from="1534527261730" duration="5591000" />
+      <workItem from="1534527261730" duration="5744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5591000" />
+    <option name="totallyTimeSpent" value="5744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
@@ -202,7 +189,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -261,8 +248,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project10/ViewController.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+        <state relative-caret-position="466">
+          <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
         </state>
       </provider>
     </entry>
